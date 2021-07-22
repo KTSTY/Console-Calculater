@@ -1,0 +1,7 @@
+C:\Users\NPt\Desktop\5alo proj\CALLCILOTER\com.pharcodeing.ConsoleCal\Console Calculater\bin\Debug\Console Calculater.exe.config
+C:\Users\NPt\Desktop\5alo proj\CALLCILOTER\com.pharcodeing.ConsoleCal\Console Calculater\bin\Debug\Console Calculater.exe
+C:\Users\NPt\Desktop\5alo proj\CALLCILOTER\com.pharcodeing.ConsoleCal\Console Calculater\bin\Debug\Console Calculater.pdb
+C:\Users\NPt\Desktop\5alo proj\CALLCILOTER\com.pharcodeing.ConsoleCal\Console Calculater\obj\Debug\Console Calculater.csproj.CoreCompileInputs.cache
+C:\Users\NPt\Desktop\5alo proj\CALLCILOTER\com.pharcodeing.ConsoleCal\Console Calculater\obj\Debug\Console Calculater.exe
+C:\Users\NPt\Desktop\5alo proj\CALLCILOTER\com.pharcodeing.ConsoleCal\Console Calculater\obj\Debug\Console Calculater.pdb
+C:\Users\NPt\Desktop\5alo proj\CALLCILOTER\com.pharcodeing.ConsoleCal\Console Calculater\obj\Debug\Console Calculater.csprojAssemblyReference.cache
